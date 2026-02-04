@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @singarappa
-- 👀 I’m interested to learn coding..
-- 🌱 I’m currently learning AI supported Coding
-- 💞️ I’m looking to collaborate on AI supported Coding
+- 👀 I’m interested in all things Product Design & Development.
+- 🌱 I’m currently Web Development with AI Assisted Coding
+- 💞️ I’m looking to collaborate on AI Assisted Coding
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
