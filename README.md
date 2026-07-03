@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @singarappa
-- 👀 I’m interested in all things Product Design & Development.
-- 🌱 I’m currently Web Development with AI Assisted Coding
-- 💞️ I’m looking to collaborate on AI Assisted Coding
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👋 Hi, I’m Vikram Managoli
+- 👀 I’m interested in AI Native Engineering
+
 - ⚡ Fun fact: ...
 
 <!---
