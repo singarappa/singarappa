@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikram Managoli
-- 👀 I’m interested in AI Native Engineering
+- 👀 I’m interested in AI Native Design led Product Engineering
 
 - ⚡ Fun fact: ...
 
